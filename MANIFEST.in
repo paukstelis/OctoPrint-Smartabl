@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_smartabl/templates *
+recursive-include octoprint_smartabl/translations *
+recursive-include octoprint_smartabl/static *
